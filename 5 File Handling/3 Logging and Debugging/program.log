@@ -1,0 +1,13 @@
+2024-03-20 18:44:23,773 INFO processing each element 1
+2024-03-20 18:44:23,773 INFO processing each element pankaj
+2024-03-20 18:44:23,773 INFO processing each element [2, 3, 4, 'world']
+2024-03-20 18:44:23,773 INFO processing sublist elemetnt2
+2024-03-20 18:44:23,773 INFO processing sublist elemetnt3
+2024-03-20 18:44:23,773 INFO processing sublist elemetnt4
+2024-03-20 18:44:23,773 INFO processing sublist elemetntworld
+2024-03-20 18:44:23,773 INFO processing each element p
+2024-03-20 18:44:23,773 INFO processing each element kumar
+2024-03-20 18:44:23,773 INFO processing each element 34
+2024-03-20 18:44:23,773 INFO processing each element 6
+2024-03-20 18:44:23,773 INFO processing each element hanspur
+2024-03-20 18:44:23,773 INFO final result is : [1, 2, 3, 4, 34, 6], ['pankaj', 'world', 'p', 'kumar', 'hanspur']
